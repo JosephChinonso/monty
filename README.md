@@ -36,7 +36,7 @@ cd monty
 Compile the code:
 
 ```bash
-bashCopy code
+
 gcc main.c check_arguments.c malloc_failed.c initialize_arguments.c get_stream.c -o monty
 
 ```
