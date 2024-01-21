@@ -12,7 +12,6 @@ This is a simple interpreter for Monty ByteCodes files written in C.
 - [Supported Opcodes](#supported-opcodes)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
